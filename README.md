@@ -12,4 +12,4 @@
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_MYSQL)
 
 
-[![LacamJC WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LacamJC)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LacamJC&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
