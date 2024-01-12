@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LacamJC&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LacamJC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-    <div class="" style="display: flex; justify-content: center; align-items: center; background-color: red;">
+<div class="" style="display: flex; justify-content: center; align-items: center; background-color: red;">
         <div class="tecnologias">
             [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_HTML5)
         </div>
