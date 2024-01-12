@@ -17,4 +17,4 @@
 
 ### Redes sociais
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_DO_LINKEDIN)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark)](COLOQUE_AQUI_O_SEU_LINK_DO_LINKEDIN)
