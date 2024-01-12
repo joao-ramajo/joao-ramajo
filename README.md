@@ -12,5 +12,4 @@
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_MYSQL)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LacamJC&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LacamJC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
