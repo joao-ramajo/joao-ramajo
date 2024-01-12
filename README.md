@@ -1,6 +1,5 @@
 ### Olá, seja bem-vindo ao meu repositório 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_DO_LINKEDIN)
 ### Tecnologias que uso
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_CSS3)
@@ -13,3 +12,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LacamJC&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LacamJC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### Redes sociais
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_DO_LINKEDIN)
