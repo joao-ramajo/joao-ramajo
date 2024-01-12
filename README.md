@@ -16,6 +16,10 @@
 [![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](COLOQUE_AQUI_O_SEU_LINK_EXPRESS)
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 
+### Sistemas Operacionais
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Redes sociais
 
