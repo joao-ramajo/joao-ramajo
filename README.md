@@ -14,7 +14,7 @@
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_BOOTSTRAP)
 [![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_NODEJS)
 [![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](COLOQUE_AQUI_O_SEU_LINK_EXPRESS)
-[![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]
+[![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 
 ### Redes sociais
