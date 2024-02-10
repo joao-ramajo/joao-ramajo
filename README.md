@@ -25,6 +25,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark)](https://www.linkedin.com/in/jo%C3%A3o-ramajo-4a3157269/)
 
-
-# Portifólio 
-https://lacamjc.github.io/portifolio/
