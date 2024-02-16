@@ -15,13 +15,3 @@
 [![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](COLOQUE_AQUI_O_SEU_LINK_NODEJS)
 [![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](COLOQUE_AQUI_O_SEU_LINK_EXPRESS)
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
-
-### Sistemas Operacionais
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### Redes sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark)](https://www.linkedin.com/in/jo%C3%A3o-ramajo-4a3157269/)
-
