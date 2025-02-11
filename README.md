@@ -24,7 +24,6 @@ Estou sempre em busca de melhorar meus conhecimentos e habilidades. Atualmente, 
 
 ## 📈 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LacamJC&show_icons=true&theme=dark&count_private=true)
 
 <!--//![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LacamJC&show_icons=true&theme=light)!-->
 
