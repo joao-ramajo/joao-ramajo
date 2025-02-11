@@ -23,11 +23,6 @@ Durante minha experiência no **Exército Brasileiro**, desenvolvi habilidades v
 - **GNU/Linux** – Paulo Kretcheu
 - **Bootstrap 5** – Diego Mariano
 
-## 🛠️ Experiência Profissional
-- **Soldado** – Exército Brasileiro
-    - Atuação em logística, liderando diversas equipes.
-    - Cumprimento eficiente de missões com alta adaptabilidade.
-    - Desenvolvimento de habilidades de trabalho em equipe e resolução de problemas.
 
 ## ⚡ Características Pessoais
 - **Organizado e criativo**: Facilidade em trabalhar de forma autônoma ou colaborativa.
