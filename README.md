@@ -10,9 +10,10 @@ Atualmente, meu foco está no desenvolvimento backend com **PHP**, utilizando o 
 
 Tenho me dedicado continuamente ao aperfeiçoamento das boas práticas de desenvolvimento arquitetura limpa e ao domínio dos recursos modernos do **ecossistema Laravel** sempre combinando estudo técnico com aplicação prática.
 
-Também participo ativamente da comunidade, acompanhando eventos e discussões técnicas em especial os encontros promovidos pelo **PHPSP**.
+Também participo da comunidade, acompanhando eventos e discussões técnicas em especial os encontros promovidos pelo **PHPSP**.
 
 ---
+<br>
 
 # Projetos
 
@@ -39,6 +40,7 @@ Desenvolvido sem frameworks utilizando PHP puro para explorar profundamente as c
 
 
 --- 
+<br>
 
 # Repositórios de Estudo
 
