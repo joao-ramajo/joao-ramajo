@@ -4,7 +4,7 @@
 </div>
 <br><br>
 
-Sou formado em  **Ténico em Informática para Internet** pelo Instituto Técnico de Barueri (FIEB), com complementação em Design UX/UI pelo SENAI — formações que me abriram portas para atuar em diversos projetos utilizando diferentes tecnologias, como **Node.js** e **ADVPL**.
+Sou formado em  **Ténico em Informática para Internet** pelo Instituto Técnico de Barueri (FIEB), com complementação em Design UX/UI pelo SENAI.
 
 Atualmente, meu foco está no desenvolvimento backend com **PHP**, utilizando o framework **Laravel** na criação de aplicações web robustas, escaláveis e bem estruturadas. 
 
