@@ -14,7 +14,7 @@ Também participo ativamente da comunidade, acompanhando eventos e discussões t
 
 ---
 
-## Projetos
+# Projetos
 
 ### 🌱 Natureza Prioridade Renovada  
 > **Laravel | Fortify | MySQL |**
