@@ -37,3 +37,15 @@ Desenvolvido sem frameworks utilizando PHP puro para explorar profundamente as c
 🔗 Repositório: [github.com/joao-ramajo/my-bookshelf](https://github.com/joao-ramajo/my-bookshelf)  
 🚀 Projeto online: [bookshelf](https://lacambookshelf.ddns.net/)
 
+# Repositórios de Estudo
+
+Alguns projetos não tem o objetivo de serem desenvolvidos de ponta a ponta, mas sim para explorar algumas funcionalidades especificas ou acompanhar estudos de um curso em andamento.
+
+### Programando com PHP Orientado a Objetos 
+>Livro de [Pablo Dall'Oglio](https://php.com.br/)
+
+Este repositorio acompanha os passos do livro *Programando com PHP Orientado a Objetos* onde mostra os conceitos fundamentais do desenvolvimento web com PHP, além de suas caracteristicas únicas e  padrões de projetos.
+
+🔗 Repositório: [github.com/joao-ramajo/php-programando-orientado-a-objetos](https://github.com/joao-ramajo/php-programando-orientado-a-objetos)  
+
+
