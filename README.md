@@ -1,5 +1,4 @@
 # João Ramajo
-
 <div align='start'>
     <span><strong>Desenvolvedor Backend | PHP | Laravel | MySQL | APIs REST</strong></span>
 </div>
