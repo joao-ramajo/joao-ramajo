@@ -48,9 +48,7 @@ Desenvolvido sem frameworks utilizando PHP puro para explorar profundamente as c
 🔗 **Repositório:** [github.com/joao-ramajo/my-bookshelf](https://github.com/joao-ramajo/my-bookshelf)  
 🚀 **Projeto online:** [My Bookshelf](https://lacambookshelf.ddns.net/)
 
-
 --- 
-<br>
 
 ## 📝 Repositórios de Estudo
 
