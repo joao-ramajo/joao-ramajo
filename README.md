@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/joao-ramajo/">
   <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=Linkedin&logoColor=blue" alt="LinkedIn Badge" />
-</a><a href="https://jramajo.vercel.app/"><img src="https://img.shields.io/badge/substack-323330?style=for-the-badge" alt="Substack Badge" />
+</a><a href="https://jramajo.vercel.app/"><img src="https://img.shields.io/badge/Meu Site-323330?style=for-the-badge" alt="Substack Badge" />
 </a>
 
 </div>
