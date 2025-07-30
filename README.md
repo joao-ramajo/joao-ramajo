@@ -50,7 +50,7 @@ Desenvolvido sem frameworks utilizando PHP puro para explorar profundamente as c
 
 --- 
 
-### My Bookshelf Laravel 
+### 🖥️ My Bookshelf Laravel 
 *Laravel, PHP, MySQL** 
 
 Plataforma de gerenciamento de livros baseada no projeto My Bookshelf, reimaginada usando o framework Laravel.
