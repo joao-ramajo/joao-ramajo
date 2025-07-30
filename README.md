@@ -15,11 +15,11 @@
 
 ## 👨🏼‍💻 Sobre Mim 
 
-Sou formado em  **Ténico em Informática para Internet** pelo [Instituto Técnico de Barueri (FIEB)](https://fieb.edu.br/curso/) com complementação em Design UX/UI pelo SENAI.
+Sou formado em  **Técnico em Informática para Internet** pelo [Instituto Técnico de Barueri (FIEB)](https://fieb.edu.br/curso/) com complementação em Design UX/UI pelo SENAI.
 
 Atualmente, meu foco está no desenvolvimento backend com **PHP** com o framework **Laravel** na criação de aplicações web robustas, escaláveis e bem estruturadas. 
 
-Tenho me dedicado continuamente ao aperfeiçoamento das boas práticas de desenvolvimento arquitetura limpa e ao domínio dos recursos modernos do **ecossistema Laravel** sempre combinando estudo técnico com aplicação prática.
+Tenho me dedicado continuamente ao aperfeiçoamento das boas práticas de desenvolvimento com arquitetura limpa e ao domínio dos recursos modernos do **ecossistema Laravel** sempre combinando estudo técnico com aplicação prática.
 
 Também participo da comunidade, acompanhando eventos e discussões técnicas em especial os encontros promovidos pelo **PHPSP**.
 
@@ -51,7 +51,7 @@ Desenvolvido sem frameworks utilizando PHP puro para explorar profundamente as c
 --- 
 
 ### 🖥️ My Bookshelf Laravel 
-*Laravel, PHP, MySQL** 
+*Laravel, PHP, MySQL* 
 
 Plataforma de gerenciamento de livros baseada no projeto My Bookshelf, reimaginada usando o framework Laravel.
 
