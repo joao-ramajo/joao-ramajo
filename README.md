@@ -50,6 +50,16 @@ Desenvolvido sem frameworks utilizando PHP puro para explorar profundamente as c
 
 --- 
 
+### My Bookshelf Laravel 
+*Laravel, PHP, MySQL** 
+
+Plataforma de gerenciamento de livros baseada no projeto My Bookshelf, reimaginada usando o framework Laravel.
+
+Com o objetivo de conhecer as funcionalidades principais que o ecossistema do framework oferece, o projeto explora a criação de aplicações web modernas com autenticação, rotas, modelos e migrations.
+
+🔗 **Repositório:** [github.com/joao-ramajo/my-bookshelf](https://github.com/joao-ramajo/my-bookshelf-laravel)  
+
+
 ## 📝 Repositórios de Estudo
 
 Alguns projetos não tem o objetivo de serem desenvolvidos de ponta a ponta, mas sim para explorar algumas funcionalidades especificas ou acompanhar estudos de um curso em andamento.
