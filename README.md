@@ -48,6 +48,17 @@ Desenvolvido sem frameworks utilizando PHP puro para explorar profundamente as c
 🔗 **Repositório:** [github.com/joao-ramajo/my-bookshelf](https://github.com/joao-ramajo/my-bookshelf)  
 🚀 **Projeto online:** [My Bookshelf](https://lacambookshelf.ddns.net/)
 
+---
+
+### 👥 RH management
+*PHP, MySQL, Laravel, Laravel Components*
+
+Gestor de RH é um sistema web desenvolvido em PHP com Laravel, focado na gestão de colaboradores e departamentos em um ambiente empresarial simulado. 
+
+Com diferentes níveis de acesso (Admin e Gestor), a aplicação oferece um painel administrativo completo, permitindo o controle eficiente de dados corporativos.
+
+🔗 **Repositório:** [github.com/joao-ramajo/my-bookshelf](https://github.com/joao-ramajo/rh-manager) 
+
 --- 
 
 ### 🖥️ My Bookshelf Laravel 
