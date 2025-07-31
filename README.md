@@ -79,6 +79,7 @@ Com o objetivo de conhecer as funcionalidades principais que o ecossistema do fr
 
 🔗 **Repositório:** [github.com/joao-ramajo/my-bookshelf](https://github.com/joao-ramajo/my-bookshelf-laravel)  
 
+---
 
 ## 📝 Repositórios de Estudo
 
