@@ -39,7 +39,7 @@ Contribuindo para o combate ao descarte irregular por meio de um sistema que per
 ---
 
 ### 📚 My Bookshelf  
-*PHP, MySQL, Nginx, CI/CD, Pest*
+*PHP, MySQL, Docker, Nginx, CI/CD, Pest*
 
 Projeto de uma livraria onde apenas usuários autenticados podem acessar os recursos do sistema, com funcionalidades para criar, editar e remover livros da base de dados.
 
