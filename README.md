@@ -53,7 +53,7 @@ Desenvolvido sem frameworks utilizando PHP puro para explorar profundamente as c
 ### 👥 RH management
 *PHP, MySQL, Laravel, Laravel Components*
 
-Gestor de RH é um sistema web desenvolvido em PHP com Laravel, focado na gestão de colaboradores e departamentos em um ambiente empresarial simulado. 
+RH management é um sistema web desenvolvido em PHP com Laravel, focado na gestão de colaboradores e departamentos em um ambiente empresarial simulado. 
 
 Com diferentes níveis de acesso (Admin e Gestor), a aplicação oferece um painel administrativo completo, permitindo o controle eficiente de dados corporativos.
 
@@ -64,7 +64,7 @@ Com diferentes níveis de acesso (Admin e Gestor), a aplicação oferece um pain
 ### 📇 Livewire Contacts
 *Laravel, MySQL, Alpine.js, Livewire, Sweet Alert 2*
 
- sistema de gerenciamento de contatos desenvolvido com Laravel, utilizando Livewire e Alpine.js para criar interfaces dinâmicas e reativas sem recarregamento de página.
+ Sistema de gerenciamento de contatos desenvolvido com Laravel, utilizando Livewire e Alpine.js para criar interfaces dinâmicas e reativas sem recarregamento de página.
 
 🔗 **Repositório:** [github.com/joao-ramajo/livewire-contacts](https://github.com/joao-ramajo/livewire-contacts) 
 
