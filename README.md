@@ -57,9 +57,18 @@ Gestor de RH é um sistema web desenvolvido em PHP com Laravel, focado na gestã
 
 Com diferentes níveis de acesso (Admin e Gestor), a aplicação oferece um painel administrativo completo, permitindo o controle eficiente de dados corporativos.
 
-🔗 **Repositório:** [github.com/joao-ramajo/my-bookshelf](https://github.com/joao-ramajo/rh-manager) 
+🔗 **Repositório:** [github.com/joao-ramajo/rh-manager](https://github.com/joao-ramajo/rh-manager) 
 
 --- 
+
+### 📇 Livewire Contacts
+*Laravel, MySQL, Alpine.js, Livewire, Sweet Alert 2*
+
+ sistema de gerenciamento de contatos desenvolvido com Laravel, utilizando Livewire e Alpine.js para criar interfaces dinâmicas e reativas sem recarregamento de página.
+
+🔗 **Repositório:** [github.com/joao-ramajo/livewire-contacts](https://github.com/joao-ramajo/livewire-contacts) 
+
+---
 
 ### 🖥️ My Bookshelf Laravel 
 *Laravel, PHP, MySQL* 
