@@ -50,7 +50,7 @@ Desenvolvido sem frameworks utilizando PHP puro para explorar profundamente as c
 
 ---
 
-### 👥 RH management
+### 👥 RH Management
 *PHP, MySQL, Laravel, Laravel Components*
 
 RH management é um sistema web desenvolvido em PHP com Laravel, focado na gestão de colaboradores e departamentos em um ambiente empresarial simulado. 
