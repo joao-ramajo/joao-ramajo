@@ -93,3 +93,10 @@ Alguns projetos não tem o objetivo de serem desenvolvidos de ponta a ponta, mas
 Este repositório acompanha os passos do livro *Programando com PHP Orientado a Objetos* onde mostra os conceitos fundamentais do desenvolvimento web com PHP, além de suas características únicas e padrões de projetos.
 
 🔗 **Repositório:** [github.com/joao-ramajo/php-programando-orientado-a-objetos](https://github.com/joao-ramajo/php-programando-orientado-a-objetos)  
+
+### 🧪 Tests With Laravel
+*Laravel, Pest*
+
+Repositório dedicado ao estudo e prática de testes automatizados utilizando o Pest no ecossistema Laravel.
+
+🔗 **Repositório:** [github.com/joao-ramajo/tests-with-laravel](https://github.com/joao-ramajo/tests-with-laravel)  
