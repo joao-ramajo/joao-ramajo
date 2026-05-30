@@ -39,7 +39,7 @@ Além da aplicação em si, o projeto também contempla deploy em produção, HT
 
 🔗 **Repositório Backend:** [github.com/joao-ramajo/kado-to](https://github.com/joao-ramajo/kado-to)  
 🔗 **Repositório Frontend:** [github.com/joao-ramajo/kado](https://github.com/joao-ramajo/kado)  
-🚀 **Projeto online:** [Kado](https://kado-tan.vercel.app/)
+🚀 **Projeto online:** [https://kado-tan.vercel.app/](https://kado-tan.vercel.app/)
 
 ---
 
@@ -62,7 +62,6 @@ Projeto de uma livraria onde apenas usuários autenticados podem acessar os recu
 Desenvolvido sem frameworks utilizando PHP puro para explorar profundamente as capacidades do ecossistema. Conta com testes unitários escritos em Pest e está hospedado em uma VPS com deploy automatizado via GitHub Actions rodando em um servidor Nginx.
 
 🔗 **Repositório:** [github.com/joao-ramajo/my-bookshelf](https://github.com/joao-ramajo/my-bookshelf)  
-🚀 **Projeto online:** [My Bookshelf](https://lacambookshelf.ddns.net/)
 
 ---
 
