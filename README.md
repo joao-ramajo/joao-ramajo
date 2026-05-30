@@ -37,7 +37,7 @@ O projeto conta com frontend publicado, backend em Laravel, autenticação por t
 
 Além da aplicação em si, o projeto também contempla deploy em produção, HTTPS, configuração de ambiente, CI/CD e documentação com visão de produto.
 
-🔗 **Repositório Backend:** [github.com/joao-ramajo/kado-to](https://github.com/joao-ramajo/kado-to)
+🔗 **Repositório Backend:** [github.com/joao-ramajo/kado-to](https://github.com/joao-ramajo/kado-to)  
 🔗 **Repositório Frontend:** [github.com/joao-ramajo/kado](https://github.com/joao-ramajo/kado)  
 🚀 **Projeto online:** [Kado](https://kado-tan.vercel.app/)
 
