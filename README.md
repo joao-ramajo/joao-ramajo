@@ -27,6 +27,22 @@ Também participo da comunidade, acompanhando eventos e discussões técnicas em
 
 ## 💡 Projetos
 
+### Kado
+
+*PHP, Laravel, MySQL, Sanctum, Docker, CI/CD, Vercel, VPS*
+
+Sistema de controle financeiro pessoal desenvolvido ponta a ponta, com foco em organização de gastos, acompanhamento de lançamentos e controle de faturas de cartão de crédito.
+
+O projeto conta com frontend publicado, backend em Laravel, autenticação por token, banco de dados, dashboard financeiro, categorias, fontes financeiras, importação/exportação de dados e fluxo de pagamento de faturas.
+
+Além da aplicação em si, o projeto também contempla deploy em produção, HTTPS, configuração de ambiente, CI/CD e documentação com visão de produto.
+
+🔗 **Repositório Backend:** [github.com/joao-ramajo/kado-to](https://github.com/joao-ramajo/kado-to)
+🔗 **Repositório Frontend:** [github.com/joao-ramajo/kado](https://github.com/joao-ramajo/kado)  
+🚀 **Projeto online:** [Kado](https://kado-tan.vercel.app/)
+
+---
+
 ### 🌱 Natureza Prioridade Renovada  
 *PHP, Laravel, Fortify, MySQL, SCSS*
 
