@@ -27,7 +27,7 @@ Também participo da comunidade, acompanhando eventos e discussões técnicas em
 
 ## 💡 Projetos
 
-### Kado
+### 💸 Kado
 
 *PHP, Laravel, MySQL, Sanctum, Docker, CI/CD, Vercel, VPS*
 
